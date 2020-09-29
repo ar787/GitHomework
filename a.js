@@ -1,2 +1,2 @@
-let a = 12;
+let a = "changed";
 let b = "Hello world"; 
