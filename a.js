@@ -1,2 +1,2 @@
-let a = 12;
+let c = [1,2,3,4,5,6];
 let b = "Hello world"; 
