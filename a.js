@@ -1,2 +1,2 @@
-let c = [1,2,3,4,5,6];
+let changed = 1234325425;
 let b = "Hello world"; 
